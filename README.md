@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey! 👋</h1>
-  <img src="https://raw.githubusercontent.com/rahmonov9779/rahmonov9779/main/print_hello.gif" alt="Header" />
+  <img src="https://raw.githubusercontent.com/rahmonov9779/rahmonov9779/master/print_hello.gif" alt="Header" />
 </div>
 
 ## 📊 GitHub Stats:
