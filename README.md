@@ -3,8 +3,23 @@
 </div>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](tg://resolve?domain=rahmonov_iskandar)
-## 📊 GitHub Stats:
+![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@rahmonov_iskandar)
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+      <h3>OS</h3>
+    <img src="https://skillicons.dev/icons?i=apple,ubuntu,windows,linux&perline=7" />
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,py,javascript,swift,java,html,css,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <br>
+  </p>
+</details>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmonov9779&show_icons=true&theme=radical)
 
