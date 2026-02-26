@@ -10,8 +10,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i.rahmonov_)
 
 Mobile developer by craft (iOS / Android)
+
 Python on the backend
+
 Books and football keep me balanced ⚽📚
+
 
 <a href="https://wakatime.com/@6df8b38a-f9e9-4c79-b648-b72ab729156e"><img src="https://wakatime.com/badge/user/6df8b38a-f9e9-4c79-b648-b72ab729156e.svg" alt="Total time coded since Jul 8 2025" /></a>
 <details align="left">
