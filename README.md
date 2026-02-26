@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@rahmonov_iskandar)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](tg://resolve?domain=rahmonov_iskandar)
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmonov9779&show_icons=true&theme=radical)
