@@ -18,6 +18,8 @@
 
 ## ⏱️ WakaTime Stats
 
+[![WakaTime](https://img.shields.io/badge/-WakaTime-E4405F?style=flat&logo=instagram&logoColor=white)](https://wakatime.com/@irahmonov)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
