@@ -7,6 +7,7 @@
 
 ## About me
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@rahmonov_iskandar)
+
 <a href="https://wakatime.com/@6df8b38a-f9e9-4c79-b648-b72ab729156e"><img src="https://wakatime.com/badge/user/6df8b38a-f9e9-4c79-b648-b72ab729156e.svg" alt="Total time coded since Jul 8 2025" /></a>
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
