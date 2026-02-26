@@ -17,12 +17,14 @@ Books and football keep me balanced ⚽📚
 
 
 <a href="https://wakatime.com/@6df8b38a-f9e9-4c79-b648-b72ab729156e"><img src="https://wakatime.com/badge/user/6df8b38a-f9e9-4c79-b648-b72ab729156e.svg" alt="Total time coded since Jul 8 2025" /></a>
-<details align="left">
+
 ## ⏱️ WakaTime Stats
+![WakaTime](https://wakatime.com/badge/user/YOUR_ID.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
       <h3>OS</h3>
