@@ -8,3 +8,4 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=irahmonov)
 
+https://wakatime.com/badge/user/6df8b38a-f9e9-4c79-b648-b72ab729156e.svg
