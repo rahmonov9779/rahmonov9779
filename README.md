@@ -6,10 +6,21 @@
 </div>
 
 ## About me
-![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@rahmonov_iskandar)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/rahmonov_iskandar)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i.rahmonov_)
+
+Mobile developer by craft (iOS / Android)
+Python on the backend
+Books and football keep me balanced ⚽📚
 
 <a href="https://wakatime.com/@6df8b38a-f9e9-4c79-b648-b72ab729156e"><img src="https://wakatime.com/badge/user/6df8b38a-f9e9-4c79-b648-b72ab729156e.svg" alt="Total time coded since Jul 8 2025" /></a>
 <details align="left">
+
+  ## ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
       <h3>OS</h3>
