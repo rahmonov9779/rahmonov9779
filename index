@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV - Искандар Рахмонов</title>
+<style>
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+}
+.container{
+    max-width:1100px;
+    margin:30px auto;
+    display:flex;
+    background:white;
+    box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
+.left{
+    width:35%;
+    background:#1f2937;
+    color:white;
+    padding:40px 30px;
+}
+.right{
+    width:65%;
+    padding:40px;
+}
+.profile h1{
+    margin:0;
+    font-size:34px;
+    line-height:1.2;
+}
+.profile h2{
+    margin-top:10px;
+    color:#d1d5db;
+    font-weight:normal;
+    font-size:18px;
+}
+.section{
+    margin-top:35px;
+}
+.section h3{
+    border-bottom:2px solid #3b82f6;
+    padding-bottom:8px;
+    margin-bottom:15px;
+    font-size:20px;
+}
+.left .section h3{
+    color:#93c5fd;
+}
+ul{
+    padding-left:20px;
+}
+.job{
+    margin-bottom:25px;
+}
+.job h4{
+    margin:0;
+    color:#2563eb;
+}
+.job span{
+    color:#6b7280;
+    font-size:14px;
+}
+p{
+    line-height:1.6;
+}
+.contact p{
+    margin:8px 0;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="left">
+        <div class="profile">
+            <h1>Искандар<br>Рахмонов</h1>
+            <h2>Middle Mobile Developer</h2>
+        </div>
+
+        <div class="section contact">
+            <h3>Контакты</h3>
+            <p>📍 Худжанд, Таджикистан</p>
+            <p>📞 +992 97 243 68 68</p>
+            <p>✉️ rir9779@gmail.com</p>
+        </div>
+
+        <div class="section">
+            <h3>Навыки</h3>
+            <ul>
+                <li>Flutter / Dart</li>
+                <li>Swift / Kotlin</li>
+                <li>PHP / Python / JS</li>
+                <li>Django / Laravel</li>
+                <li>Vue.js</li>
+                <li>Git / GitHub</li>
+                <li>MySQL / PostgreSQL</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Языки</h3>
+            <ul>
+                <li>Русский</li>
+                <li>Английский</li>
+                <li>Узбекский</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="right">
+        <div class="section">
+            <h3>Обо мне</h3>
+            <p>
+                Специалист в области IT с навыками мобильной и веб разработки,
+                программирования и создания современных цифровых решений.
+                Опыт разработки приложений под iOS и Android, backend и frontend.
+            </p>
+        </div>
+
+        <div class="section">
+            <h3>Опыт работы</h3>
+
+            <div class="job">
+                <h4>МКО "Оксус"</h4>
+                <span>апрель 2025 — настоящее время</span>
+                <p>Middle Mobile Developer — разработка и поддержка мобильных приложений iOS и Android.</p>
+            </div>
+
+            <div class="job">
+                <h4>tijoratpro</h4>
+                <span>декабрь 2024 — март 2025</span>
+                <p>Junior Fullstack Developer — разработка CRM на Django + Vue.js.</p>
+            </div>
+
+            <div class="job">
+                <h4>ОАО "Алиф"</h4>
+                <span>2021 — 2023</span>
+                <p>Старший кредитный эксперт и специалист по обслуживанию клиентов.</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h3>Образование</h3>
+            <p>
+                <strong>Политехнический университет Таджикистана</strong><br>
+                Бакалавр технологических наук — 2025
+            </p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
